@@ -10,7 +10,7 @@
 using KeyType = std::string;
 using ValueType = double;
 
-//Map class for storing key-value pairs as you said, not to have in .cpp
+//Map class for storing key-value pairs 
 class Map
 {
 
