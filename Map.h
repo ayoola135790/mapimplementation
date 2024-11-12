@@ -40,7 +40,7 @@ private:
 
 public:
 	//function declarations 
-	Map();              // Create an empty map (i.e., one with no key/value pairs)
+	Map();              // Create an empty map 
 
 	//Destructor
 	~Map();
